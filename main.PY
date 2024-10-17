@@ -80,4 +80,4 @@ while True:
         print("ingrese sus datos")
     else:
         print("codigo erroneo")
-print(lista_alumnos
+print(lista_alumnos)
